@@ -1,3 +1,8 @@
 # Scroll-Driven Hero Animation
 
-Frontend assignment implementing a scroll-driven hero section with GSAP, React, Next.js, Tailwind CSS, and vanilla web APIs.
+Frontend assignment implementing the reference scroll-driven hero interaction with React, Next.js, Tailwind CSS and GSAP ScrollTrigger.
+
+## Run locally
+
+npm install
+npm run dev
